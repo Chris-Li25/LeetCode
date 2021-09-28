@@ -19,7 +19,7 @@ var reverseLeftWords = function (s, n) {
  * @param {number} n
  * @return {string}
  */
-// 2. 分治思想 分为左右两部分 最后想加 时间复杂度O(n) 空间复杂度O(1)
+// 2. 分治思想 分为左右两部分 最后相加 时间复杂度O(n) 空间复杂度O(1)
 var reverseLeftWords = function (s, n) {
   let l = (r = "");
 
